@@ -2,7 +2,7 @@
 
 # Laconic
 
-**Language models that say more with fewer rows.**
+**Language models that say more with fewer rows.** Still in Work (its a prototype not final version)
 
 Sparse is supposed to cost quality. It doesn't have to.
 
