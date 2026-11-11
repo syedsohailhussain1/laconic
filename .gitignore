@@ -1,0 +1,10 @@
+__pycache__/
+*.pt
+*.hyper
+*.bin
+*.log
+*.pkl
+_*.json
+_usr_*
+*.obj
+*.o

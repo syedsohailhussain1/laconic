@@ -1,0 +1,6 @@
+torch>=2.0
+transformers>=4.40
+pandas
+numpy
+tokenizers
+scikit-learn
